@@ -63,7 +63,7 @@
     display: none;
   }
   
-  @media screen and (max-width: 1020px) {
+  @media (max-width: 720px) {
     header #navbar .hamburger-menu {
       display: block;
     }
@@ -122,19 +122,18 @@
     max-width: 280px;
   }
   
-  @media screen and (max-width: 1020px) {
+  @media (max-width: 920px) {
     main #banner {
       flex-direction: column-reverse;
       align-items: center;
       gap: 2rem;
     }
-  
     main #banner .banner-content {
       text-align: center;
     }
   }
   
-  @media screen and (max-width: 1020px) {
+  @media (max-width: 900px) {
     main #posts .posts-content .posts-content-header .section-title {
       text-align: center;
       gap: 1rem;
@@ -209,11 +208,12 @@
     display: block;
   }
   
-  @media screen and (max-width: 1020px) {
+  @media (max-width: 900px) {
     #posts .posts-content .posts-cards {
       grid-template-columns: repeat(1, 1fr);
     }
   }
+  
   
   footer {
     position: fixed;
