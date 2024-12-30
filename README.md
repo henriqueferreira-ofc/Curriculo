@@ -1,7 +1,7 @@
 <h1 align="center">My Curriculo</h1>
 
 <p align="center">
-Meu Projeto desenvolvido em um curso promovido pela Rocketseat na WEB. <br/>
+Meu Projeto desenvolvido em um curso promovido pela Alura na WEB. <br/>
 <a href="https://github.com/henriqueferreira-ofc/Curriculo">Veja meu Projeto Clicando aqui</a>
 </p>
 
