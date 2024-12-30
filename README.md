@@ -18,7 +18,7 @@ Meu Projeto desenvolvido em um curso promovido pela Rocketseat na WEB. <br/>
 
 <br>
 
-![Projeto Currículo](https://github.com/henriquearaujooficial/ProjetoDev/blob/main/assets/.github/Telaprincipal.png)
+![Projeto Currículo](https://github.com/henriqueferreira-ofc/Curriculo/blob/main/fotocurriculo.jpg)
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
