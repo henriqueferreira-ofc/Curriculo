@@ -9,7 +9,7 @@ Meu Projeto desenvolvido em um curso promovido pela Rocketseat na WEB. <br/>
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
-  [![NPM](https://img.shields.io/npm/l/react)](https://github.com/henriquearaujooficial/Portfolio/blob/master/LICENSE)
+  <a [![NPM](https://img.shields.io/npm/l/react)](https://github.com/henriquearaujooficial/Portfolio/blob/master/LICENSE)>
 </p>
 
 <p align="center">
