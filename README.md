@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto Dev foi feito em um curso da Rocketseat e aumentou meu desenpenho positivamente em 100%.
+O Projeto Dev foi feito em um curso da Alura e aumentou meu desenpenho positivamente em 100%.
 
 ## :memo: Licença
 
