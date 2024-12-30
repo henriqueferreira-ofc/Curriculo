@@ -2,7 +2,7 @@
 
 <p align="center">
 Meu Projeto desenvolvido em um curso promovido pela Rocketseat na WEB. <br/>
-<a href="https://github.com/henriquearaujooficial/ProjetoDev">Veja meu Projeto Clicando aqui</a>
+<a href="https://github.com/henriqueferreira-ofc/Curriculo">Veja meu Projeto Clicando aqui</a>
 </p>
 
 <p align="center">
