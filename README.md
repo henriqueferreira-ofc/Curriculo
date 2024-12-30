@@ -11,7 +11,7 @@ Meu Projeto desenvolvido em um curso promovido pela Rocketseat na WEB. <br/>
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
-[![npm] (https://img.shields.io/npm/l/react)]
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/henriqueferreira-ofc/Curriculo/blob/main/LICENSE)
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
