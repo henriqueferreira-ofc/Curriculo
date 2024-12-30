@@ -1,3 +1,5 @@
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/henriquearaujooficial/Portfolio/blob/master/LICENSE)
 <h1 align="center">My Curriculo</h1>
 
 <p align="center">
@@ -11,7 +13,6 @@ Meu Projeto desenvolvido em um curso promovido pela Rocketseat na WEB. <br/>
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/henriquearaujooficial/Portfolio/blob/master/LICENSE)
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
